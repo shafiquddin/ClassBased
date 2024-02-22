@@ -28,3 +28,9 @@ button:active {
   background-color: #630032;
   border-color: #630032;
 }
+
+.error {
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+}
